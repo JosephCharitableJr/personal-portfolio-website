@@ -23,7 +23,7 @@ This is my personal portfolio website built using HTML and CSS. The website high
 2. Open `index.html` in a web browser
 
 ## Live Website
-(Insert your GitHub Pages link here once published)
+https://josephcharitablejr.github.io/personal-portfolio-website/
 
 ## What I Learned
 - Basic web development structure
